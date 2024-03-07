@@ -1,0 +1,11 @@
+C:\Users\Varun M\source\repos\ConsoleAppToConsumeWEBAPI\ConsoleAppToConsumeWEBAPI\bin\Debug\ConsoleAppToConsumeWEBAPI.exe.config
+C:\Users\Varun M\source\repos\ConsoleAppToConsumeWEBAPI\ConsoleAppToConsumeWEBAPI\bin\Debug\ConsoleAppToConsumeWEBAPI.exe
+C:\Users\Varun M\source\repos\ConsoleAppToConsumeWEBAPI\ConsoleAppToConsumeWEBAPI\bin\Debug\ConsoleAppToConsumeWEBAPI.pdb
+C:\Users\Varun M\source\repos\ConsoleAppToConsumeWEBAPI\ConsoleAppToConsumeWEBAPI\obj\Debug\ConsoleAppToConsumeWEBAPI.csproj.AssemblyReference.cache
+C:\Users\Varun M\source\repos\ConsoleAppToConsumeWEBAPI\ConsoleAppToConsumeWEBAPI\obj\Debug\ConsoleAppToConsumeWEBAPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Varun M\source\repos\ConsoleAppToConsumeWEBAPI\ConsoleAppToConsumeWEBAPI\obj\Debug\ConsoleAppToConsumeWEBAPI.csproj.CoreCompileInputs.cache
+C:\Users\Varun M\source\repos\ConsoleAppToConsumeWEBAPI\ConsoleAppToConsumeWEBAPI\obj\Debug\ConsoleAppToConsumeWEBAPI.exe
+C:\Users\Varun M\source\repos\ConsoleAppToConsumeWEBAPI\ConsoleAppToConsumeWEBAPI\obj\Debug\ConsoleAppToConsumeWEBAPI.pdb
+C:\Users\Varun M\source\repos\ConsoleAppToConsumeWEBAPI\ConsoleAppToConsumeWEBAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Varun M\source\repos\ConsoleAppToConsumeWEBAPI\ConsoleAppToConsumeWEBAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Varun M\source\repos\ConsoleAppToConsumeWEBAPI\ConsoleAppToConsumeWEBAPI\obj\Debug\ConsoleAppToConsumeWEBAPI.csproj.CopyComplete
